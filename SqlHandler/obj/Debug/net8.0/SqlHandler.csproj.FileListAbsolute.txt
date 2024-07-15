@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CMS\SqlHandler\bin\Debug\net8.0\SqlHandler.deps.json
+C:\Users\Admin\Desktop\CMS\SqlHandler\bin\Debug\net8.0\SqlHandler.dll
+C:\Users\Admin\Desktop\CMS\SqlHandler\bin\Debug\net8.0\SqlHandler.pdb
+C:\Users\Admin\Desktop\CMS\SqlHandler\bin\Debug\net8.0\CommonService.dll
+C:\Users\Admin\Desktop\CMS\SqlHandler\bin\Debug\net8.0\CommonService.pdb
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.csproj.Up2Date
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.dll
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\refint\SqlHandler.dll
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\SqlHandler.pdb
+C:\Users\Admin\Desktop\CMS\SqlHandler\obj\Debug\net8.0\ref\SqlHandler.dll
